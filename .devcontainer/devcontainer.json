@@ -14,7 +14,12 @@
       "openFiles": [
         "pages/index.js"
       ]
-    }
+	},
+	"vscode": {
+		"extensions": [
+			"msjsdiag.vscode-react-native"
+		]
+	}
   },
   "portsAttributes": {
     "3000": {
